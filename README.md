@@ -35,3 +35,4 @@ By link https://backend-soyummy.onrender.com/api-docs/
   before each PR and fix all linter errors
 - `npm lint:fix` &mdash; same linter check but with automatic ones corrections
   of simple errors
+  
