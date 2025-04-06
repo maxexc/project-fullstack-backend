@@ -7,11 +7,11 @@
   },
   "externalDocs": {
     "description": "SoYummy - Website",
-    "url": "https://vladossid.github.io/project-fullstack-frontend/"
+    "url": "https://maxexc.github.io/project-fullstack-frontend/"
   },
   "servers": [
     {
-      "url": "https://backend-soyummy.onrender.com/api"
+      "url": "https://backend-soyummy-api.onrender.com/api"
     }
   ],
   "paths": {
